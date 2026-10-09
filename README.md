@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nicolás Aguayo 👋
+# Hi, I'm Nicolás Aguayo
 
 **Software Engineering Student · Full Stack Development & Applied Data Science**
 
