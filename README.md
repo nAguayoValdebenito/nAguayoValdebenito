@@ -28,7 +28,9 @@ I like to model the problem well before writing code, and to keep the code organ
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react,vite,tailwind,angular,ionic,flutter)
+![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,angular,flutter)
+
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 
 **Backend**
 
@@ -40,7 +42,9 @@ I like to model the problem well before writing code, and to keep the code organ
 
 **Data science and cloud**
 
-![Data](https://skillicons.dev/icons?i=py,powerbi,gcp)
+![Data](https://skillicons.dev/icons?i=py,gcp)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Other**
 
